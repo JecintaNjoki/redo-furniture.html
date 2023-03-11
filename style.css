@@ -1,0 +1,143 @@
+.list{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 0%;
+}
+li{
+list-style: none;
+}
+.modern{
+  display: flex; 
+  margin-left: 10%;
+
+}
+.seat{
+    margin-left: 30%;
+   
+}
+.product{
+    padding: 10%;
+    border-radius: 20px;
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    display: flex;
+    margin-top: 10%;
+}
+.fonk{
+width: 300px;
+height: 300px;
+}
+.sofa{
+
+width: 300px;
+height: 300px;
+}
+.bed{
+
+width: 300px;
+height: 300px;
+}
+
+.table{
+    width: 300px;
+    height: 300px;
+
+}
+.chair{
+    display: flex;
+}
+.dine{
+    width: 40%;
+    height:300px;
+}
+.hair{
+    width: 40%;
+    height: 300px;
+    margin-left: 600px;
+    margin-bottom: 400px;
+}
+.projects{
+    padding-bottom:5%;
+}
+.container{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 5px 0px;
+}
+.productions{
+display: flex;
+}
+.prod{
+    padding:  140px,70px;
+    margin: 5%;
+}
+.partners{
+    padding: 70%;
+    margin: 5%;
+}
+.bedds{
+    width: 80%;
+    margin: 20px;
+    margin-left: 50%;
+    
+/* }
+.clients{ */
+    
+    
+    
+}
+button{
+    padding: 15px 15px;
+    border-radius: 20px;
+    background-color: blue;
+}
+.image{
+    width: 80%;
+    margin-left: 10%;
+}
+.magazine{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+}
+.
+    
+
+/* }
+.containerA{
+    display: flex;
+    float
+    
+}
+.containerB{
+    display: flex;
+    flex-direction: row;
+
+}
+button{
+    padding: 20px;
+    margin: 1%;
+    border-radius: 20px;
+    background-color: gray;
+    }
+.
+header{
+display: flex;
+flex-direction: row-reverse;
+} */
+
+/* .container3{
+    background-color: black;
+    display:flex ;
+   } 
+   container main{
+    display : flex; */
